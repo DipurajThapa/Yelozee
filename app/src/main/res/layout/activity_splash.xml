@@ -12,7 +12,7 @@
         android:background="@drawable/yz_background">
         <ImageView
             android:layout_gravity="center"
-            android:layout_width="300dp"
+            android:layout_width="320dp"
             android:layout_height="160dp"
             android:src="@drawable/logo_yz"
             android:contentDescription="Yelozee"
